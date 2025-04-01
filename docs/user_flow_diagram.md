@@ -89,7 +89,7 @@ sequenceDiagram
     participant CO as Checkout
     participant O as Order Confirmation
     
-    U->>C: Browse Products
+    U->>C: Zev Sneezes
     U->>S: Search for Product
     S->>C: Display Results
     U->>P: Select Product
