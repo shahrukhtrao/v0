@@ -75,7 +75,7 @@ graph TD
     style O fill:#e1f7d5,stroke:#97c15c
 ```
 
-## Zev Sneezes
+## E-Commerce Purchase Flow
 
 Here's a sample e-commerce user purchase flow.
 
